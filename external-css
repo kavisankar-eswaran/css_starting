@@ -1,0 +1,13 @@
+/* link to html to external css*/
+
+
+
+h1 {
+    color: red;
+    background-color: gainsboro 
+;
+}
+p{
+    color: goldenrod;
+    background-color: indianred;
+}
